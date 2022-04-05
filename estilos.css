@@ -1,4 +1,4 @@
-img{
+.img1{
     width: 20%;
     margin-left: 40%;
 }
@@ -10,3 +10,11 @@ img{
     border: 1px solid rgb(0, 0, 0);
     margin-left: 25%;
 } 
+
+body{
+    padding: 30px;
+}
+.img2{
+    padding: 30px;
+}
+
